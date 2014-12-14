@@ -1,0 +1,26 @@
+/*
+Theme Name: minimalMuk Child
+Theme URI: http://mukblogs.medienkomm.uni-halle.de
+Description: This is a child theme to the minimalMuk theme
+Version: 1.0.0
+Author: ENTER YOUR NAME HERE
+Author URI: ENTER YOUR WEBSITE HERE
+Tags: muk, minimal, mlu, starkers, naked, clean, basic
+Template: minimalmuk
+*/
+
+/* DO NOT REMOVE: Import of the parent theme CSS */
+@import url("../minimalmuk/style.css");
+
+/*
+  TYPOGRAPHY CORRESPONDENCES
+  --------------------------
+  14 / 16 =     0.875em     (14px equivalent)
+  16 / 16 =     1em         (16px equivalent)
+  18 / 16 =     1.125em     (18px equivalent)
+  21 / 16 =     1.3125em    (21px equivalent)
+  24 / 16 =     1.5em       (24px equivalent)
+  30 / 16 =     1.875em     (30px equivalent)
+*/
+
+/* Enter your styles below */
